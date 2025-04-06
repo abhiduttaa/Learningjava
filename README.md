@@ -1,2 +1,2 @@
-# Learningjava
-day_1
+# LearningJavaDay1
+Day_1
